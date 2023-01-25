@@ -1,1 +1,2 @@
 # ML_course
+Welcome to my machine learning project! In this project I'm aiming to use advanced techniques in machine learning to analyze and predict various outcomes. The models used in this project have been trained on large datasets and have been optimized for the best possible performance. I hope that this project will showcase what I've learned in the Codecademy course Machine Learning Fundamentals. Please feel free to explore the code and results, and let me know if you have any questions or feedback
